@@ -121,7 +121,7 @@ necessary to adapt the templates in the template directory.
   }
 }
 ```
-Save the file with the name config.json in the root directory of this
+Save the file with the name `config.json` in the root directory of this
 project.
 
 Create another file to configure the shell wrappers filling in the
@@ -139,7 +139,7 @@ LAMBDA_CONTENTFUL_SYNC_NAME=contentful-sync-test
 # the name of the lambda static rendering function
 LAMBDA_KINESIS_RENDERING_NAME=contentful-consumer-test
 ```
-Save the file with the config.sh in the root directory of this
+Save the file with the name `config.sh` in the root directory of this
 project.
 
 ## Installation
