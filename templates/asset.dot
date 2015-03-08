@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Asset {{=it.sys.id}}</title>
+</head>
+<body>
+<h1></h1>
+<img src="{{=it.fields.file['en-US'].url}}" alt="{{=it.fields.title['en-US']}}" />
+</body>
+</html>

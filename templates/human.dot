@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Human {{=it.fields.name['en-US']}}</title>
+</head>
+<body>
+<h1>{{=it.fields.name['en-US']}} is a Human</h1>
+</body>
+</html>

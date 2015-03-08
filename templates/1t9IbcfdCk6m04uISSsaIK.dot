@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Entry {{=it.sys.id}}</title>
+</head>
+<body>
+<h1>Theres's not much to say about {{=it.sys.id}}</h1>
+</body>
+</html>

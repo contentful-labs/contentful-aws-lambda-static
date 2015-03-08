@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cat {{=it.fields.name['en-US']}}</title>
+</head>
+<body>
+<h1>Here's {{=it.fields.name['en-US']}}</h1>
+<p>{{=it.fields.name['en-US']}}'s color is {{=it.fields.color['en-US']}}</p>
+</body>
+</html>
