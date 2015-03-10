@@ -64,10 +64,9 @@ and saves the resulting HTML on Amazon S3.
                             |
                             v
                    +-----------------+
-                   |                 |
                    |     lambda      |
-                   |    Dot render   |
-                   |                 |
+                   |  HTML template  |
+                   |    rendering    |
                    +-----------------+
                             |
                             |
