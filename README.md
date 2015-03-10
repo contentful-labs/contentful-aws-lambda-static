@@ -101,7 +101,7 @@ Contentful space that you want to generate static pages for and the
 AWS entities details.
 Please note that this library assumes that the source space is the
 `cfexampleapi` Contentful example space, to work with other spaces is
-necessary to adapt the templates in the template directory.
+necessary to adapt the templates in the `templates` directory.
 
 ```json
 {
