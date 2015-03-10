@@ -89,9 +89,9 @@ Synchronization status.
 workload.
 3. An IAM role that will be used by the lambda functions. This role
 should have the following permissions
-  a. getObject, putObject, putObjectACL on the S3 bucket
-  b. PutRecords on the kinesis stream
-  c. log permission as described in the [aws HOWTO](http://docs.aws.amazon.com/lambda/latest/dg/walkthrough-kinesis-events-adminuser-create-test-function-create-execution-role.html)
+  1. getObject, putObject, putObjectACL on the S3 bucket
+  2. PutRecords on the kinesis stream
+  3. logging permission as described in the [AWS HOWTO](http://docs.aws.amazon.com/lambda/latest/dg/walkthrough-kinesis-events-adminuser-create-test-function-create-execution-role.html)
 4. A working installation of the [AWS CLI](http://aws.amazon.com/cli/)
 
 ## Configuration
