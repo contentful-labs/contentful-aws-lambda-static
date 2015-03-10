@@ -43,7 +43,7 @@ sync api, and writes every single entity to the AWS kinesis stream.
 
 The second lambda function reads the entities from the kinesis stream
 and per each entity renders a [Dot.js](http://olado.github.io/doT/index.html)
-and saves the resulting HTML on AWS S3.
+and saves the resulting HTML on Amazon S3.
 
 ```
                    +-----------------+
