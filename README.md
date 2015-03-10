@@ -174,6 +174,8 @@ stream:
 ./bin/add_source.sh
 ```
 
+This will instruct the lambda function to consume the Kinesis stream.
+
 ## Usage
 
 Trigger execution of the AWS Lambda Contentful sync function
