@@ -22,7 +22,7 @@
     "bluebird": "~0.11.6-0"
   },
   "devDependencies": {
-    "aws-sdk": "2.1.16"
+    "aws-sdk": "2.1693.0"
   },
   "homepage": "https://github.com/contentful-labs/contentful-aws-lambda-static"
 }
